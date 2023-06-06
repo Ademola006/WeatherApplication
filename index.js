@@ -49,7 +49,6 @@ submit.addEventListener("click", ()=>{
 
 
 
-
 // POSTING API
 
 // let send = () => {
